@@ -1,8 +1,8 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>Odd Craft</h1>
+<p>For commission work contact oddcraftart@gmail.com</p>
 <img src = "./holly.png" />
 </body>
 </html> 
