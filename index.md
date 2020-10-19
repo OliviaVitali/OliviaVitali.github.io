@@ -1,7 +1,6 @@
-import CardHeader from '@material-ui/core/CardHeader';
 <html>
 <body>
-<script>
+<script type="javascript">
   alert("hello world")
   </script>
 <h1>Odd Craft</h1>
