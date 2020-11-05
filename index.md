@@ -5,9 +5,9 @@
 
   </script>  
 
-<h1>Odd Craft</h1>
-<p> Do you want a piece of art to comfortably fit your home?  Oddcraft will transform a picture of your home, color and pattern match, and create a piece guaranteed to fit your space </p>
-<p>For commission work contact oddcraftart@gmail.com</p>
-<img src = "./holly.png" />
+<h1>Olivia Vitali</h1>
+<p> Are you looking to hire a <strong>junior software developer</strong>?</p>
+<p>For direct contact olivia.vitali2012@gmail.com</p>
+<img src = "./holly.png" width = 100 height =100/>
 </body>
 </html> 
