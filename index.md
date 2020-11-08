@@ -7,7 +7,7 @@
 
 <h1>Olivia Vitali</h1>
 <div>
-<h3>link for LinkedIn</h3>
+<h3 href="https://www.linkedin.com/in/olivia-vitali/">link for LinkedIn</h3>
 <h3>link for github</h3>
 <h3>link for Capstone project</h3>
   </div>
