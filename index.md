@@ -19,7 +19,6 @@
 <ul>
   <li>Java</li>
   <li>C</li>
-  <li></li>
   </ul>
   <h3> Some proficiency in</h3>
   <ul>
