@@ -10,7 +10,7 @@
 
 <h1>Olivia Vitali</h1>
 <div>
-<a href="https://www.linkedin.com/in/olivia-vitali/" target="_blank">link for LinkedIn</a>
+<a href="https://www.linkedin.com/in/olivia-vitali/" target="_blank">link for LinkedIn</a><br>
 <a target="_blank">link for github</a>
 <a href="https://lowelljo.github.io/team-civil/" target="_blank">link for Capstone project</a>
   </div>
@@ -34,13 +34,41 @@
     <li>R</li>
     <li>C++</li>
     </ul>
+  </div>
   <div>
+  <div id="workHistory">
+    <h3>Past Work Experience</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Company</th>
+          <th>Title</th>
+          <th>Responsibilities</th>
+          <th>Dates</th>
+        </tr>
+        <tbody>
+          <tr>
+            <th>American Express>
+            <td>Analysis Internship</td>
+            <td>Software Developement</td>
+            <td>June 2020 - August 2020</td>
+          </tr>
+          <tr>
+            <th>Public Storage</th>
+            <th>Property Manager</th>
+            <th>Manage a store</th>
+            <th>2014-2018</th>
+          </tr>
+        </tbody>
+  </div>
   <h3>Side Projects<h3>
   <p>Olivia spent her time at Grand Valley State University not only learning in the classroom but outside as well.  She has participated in a coding competition, built this website, and a visited the Grace Hopper Convention in 2019</p>
     <a href="./secondPage.html">link to second page for testing</a>
     </div>
-  <h3>Outside of coding</h3>
-  <p>Olivia also creates artwork on commission.  Here are some examples of her work.</p>
-<img src = "./holly.png" width = 100 height =100/>
+    <div>
+      <h3>Outside of coding</h3>
+      <p>Olivia also creates artwork on commission.  Here are some examples of her work.</p>
+        <img src = "./holly.png" width = 100 height =100/>
+    </div>
 </body>
 </html> 
