@@ -37,7 +37,7 @@
   <div>
   <h3>Side Projects<h3>
   <p>Olivia spent her time at Grand Valley State University not only learning in the classroom but outside as well.  She has participated in a coding competition, built this website, and a visited the Grace Hopper Convention in 2019</p>
-    <a href="./secondPage">link to second page for testing</a>
+    <a href="./secondPage.html">link to second page for testing</a>
     </div>
   <h3>Outside of coding</h3>
   <p>Olivia also creates artwork on commission.  Here are some examples of her work.</p>
