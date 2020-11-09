@@ -1,4 +1,7 @@
 <html>
+  <head>
+    Prospective Hire: Olivia Vitali
+  </head>
 <body>
 <script type="javascript">
   alert("hello world")
@@ -7,9 +10,9 @@
 
 <h1>Olivia Vitali</h1>
 <div>
-<h3 href="https://www.linkedin.com/in/olivia-vitali/">link for LinkedIn</h3>
-<h3>link for github</h3>
-<h3>link for Capstone project</h3>
+<a href="https://www.linkedin.com/in/olivia-vitali/" target="_blank">link for LinkedIn</a>
+<a target="_blank">link for github</a>
+<a href="https://lowelljo.github.io/team-civil/" target="_blank">link for Capstone project</a>
   </div>
 <p> Are you looking to hire a <strong>junior software developer</strong>?</p>
 <p>For direct contact olivia.vitali2012@gmail.com</p>
