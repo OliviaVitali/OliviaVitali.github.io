@@ -7,7 +7,7 @@
   alert("hello world")
 
   </script>  
-
+<div>
 <h1>Olivia Vitali</h1>
 <div>
 <a href="https://www.linkedin.com/in/olivia-vitali/" target="_blank">link for LinkedIn</a><br>
@@ -16,6 +16,7 @@
   </div>
 <p> Are you looking to hire a <strong>junior software developer</strong>?</p>
 <p>For direct contact olivia.vitali2012@gmail.com</p>
+</div>
 
 <div>
   <h3>Most proficient in</h3>
@@ -35,7 +36,7 @@
     <li>C++</li>
     </ul>
   </div>
-  <div>
+
   <div id="workHistory">
     <h3>Past Work Experience</h3>
     <table>
@@ -46,9 +47,10 @@
           <th>Responsibilities</th>
           <th>Dates</th>
         </tr>
+      </thead>
         <tbody>
           <tr>
-            <td>American Express>
+            <td>American Express</td>
             <td>Analysis Internship</td>
             <td>Software Developement</td>
             <td>June 2020 - August 2020</td>
@@ -60,17 +62,17 @@
             <td>2014-2018</td>
           </tr>
           <tr>
-  <td>Self Employed</td>
-    <td>Piano Teacher</td>
-    <td>Network for students, Create lesson plans, Teach students</td>
-  <td>2014-2018 </td>
+            <td>Self Employed</td>
+              <td>Piano Teacher</td>
+              <td>Network for students, Create lesson plans, Teach students</td>
+              <td>2014-2018 </td>
           </tr>
           <tr>
             <td>Grand Valley State University</td>
             <td>STEM Camp Counselor</td>
             <td>Supervise children, Ensure safety of students, Encourage interest in STEM</td>
             <td>2019</td>
-  </tr>
+          </tr>
         </tbody>
   </div>
   <div>
