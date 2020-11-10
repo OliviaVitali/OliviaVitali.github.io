@@ -54,10 +54,10 @@
             <td>June 2020 - August 2020</td>
           </tr>
           <tr>
-            <td>Public Storage</th>
-            <td>Property Manager</th>
-            <td>Manage a store</th>
-            <td>2014-2018</th>
+            <td>Public Storage</td>
+            <td>Property Manager</td>
+            <td>Manage a store</td>
+            <td>2014-2018</td>
           </tr>
           <tr>
   <td>Self Employed</td>
