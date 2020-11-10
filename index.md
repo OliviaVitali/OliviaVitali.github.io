@@ -59,6 +59,18 @@
             <td>Manage a store</th>
             <td>2014-2018</th>
           </tr>
+          <tr>
+  <td>Self Employed</td>
+    <td>Piano Teacher</td>
+    <td>Network for students, Create lesson plans, Teach students</td>
+  <td>2014-2018 </td>
+          </tr>
+          <tr>
+            <td>Grand Valley State University</td>
+            <td>STEM Camp Counselor</td>
+            <td>Supervise children, Ensure safety of students, Encourage interest in STEM</td>
+            <td>2019</td>
+  </tr>
         </tbody>
   </div>
   <div>
