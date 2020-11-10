@@ -48,19 +48,20 @@
         </tr>
         <tbody>
           <tr>
-            <th>American Express>
+            <td>American Express>
             <td>Analysis Internship</td>
             <td>Software Developement</td>
             <td>June 2020 - August 2020</td>
           </tr>
           <tr>
-            <th>Public Storage</th>
-            <th>Property Manager</th>
-            <th>Manage a store</th>
-            <th>2014-2018</th>
+            <td>Public Storage</th>
+            <td>Property Manager</th>
+            <td>Manage a store</th>
+            <td>2014-2018</th>
           </tr>
         </tbody>
   </div>
+  <div>
   <h3>Side Projects<h3>
   <p>Olivia spent her time at Grand Valley State University not only learning in the classroom but outside as well.  She has participated in a coding competition, built this website, and a visited the Grace Hopper Convention in 2019</p>
     <a href="./secondPage.html">link to second page for testing</a>
