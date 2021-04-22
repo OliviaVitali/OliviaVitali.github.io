@@ -1,17 +1,11 @@
 <html>
   <head>
-    Prospective Hire: Olivia Vitali
+   Olivia Vitali
   </head>
 <body>
-<script type="javascript">
-  alert("hello world")
-
-  </script>  
-<div>
-<h1>Olivia Vitali</h1>
 <div>
 <a href="https://www.linkedin.com/in/olivia-vitali/" target="_blank">LinkedIn Profile</a><br>
-<a target="_blank">Github Account</a>
+<a target="_blank">Github Account</a><br>
 <a href="https://lowelljo.github.io/team-civil/" target="_blank">Capstone project</a>
   </div>
 <p> Are you looking to hire a <strong>junior software developer</strong>?</p>
@@ -73,17 +67,21 @@
             <td>Supervise children, Ensure safety of students, Encourage interest in STEM</td>
             <td>2019</td>
           </tr>
-          <tc>Grand Valley State University</td>
-          <td>AV Tech
+          <tr>
+            <tc>Grand Valley State University</td>
+            <td>Audio Visual Technician</td>
+            <td>Independently set up conference rooms, monitor supplies, and take inventory for the Audio Visual department at Grand Valley State University. Some troubleshooting and technical support for staff with technical problems.</td>
+          <td>Apr 2019 - Jan 2020</td>
+      </tr>
         </tbody>
   </div>
   <div>
   <h3>Side Projects<h3>
-  <p>Olivia spent her time at Grand Valley State University not only learning in the classroom but outside as well.  She has participated in a coding competition, built this website, and a visited the Grace Hopper Convention in 2019</p>
+  <p>Olivia spent her time at Grand Valley State University learning in the classroom and outside as well.  She has participated in a coding competition, built this website, and a visited the Grace Hopper Convention in 2019.</p>
     
     <div>
-      <h3>Outside of coding</h3>
-      <p>Olivia also creates artwork on commission.  Here are some examples of her work.</p>
+      <h3>Beyond the workplace</h3>
+      <p>Olivia also creates digital art as well as acryllic and crafts</p>
         <img src = "./holly.png" width = 100 height =100/>
     </div>
 </body>
