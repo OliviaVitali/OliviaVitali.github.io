@@ -8,7 +8,7 @@
         <img src = "./holly.png" width = 100 height =100/>
 <p> A commissioned piece for a friend </p>
 
-        <img src = "./databasePanic.png"/>
+        <img src = "./lilycorgi(1).png"/>
 <p> Abstract art <p>
 
         <img src = "./landscape4.png"/>
