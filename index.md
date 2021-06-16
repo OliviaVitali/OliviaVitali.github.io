@@ -4,8 +4,9 @@
   </head>
 <body>
 <div>
+  <div>
 <a href="https://www.linkedin.com/in/olivia-vitali/" target="_blank">LinkedIn Profile</a><br>
-<a target="_blank">Github Account</a><br>
+<a target="https://github.com/OliviaVitali">Github Account</a><br>
 <a href="https://lowelljo.github.io/team-civil/" target="_blank">Capstone project</a>
   </div>
 <p> Are you looking to hire a <strong>junior software developer</strong>?</p>
@@ -33,6 +34,7 @@
 
   <div id="workHistory">
     <h3>Past Work Experience</h3>
+    <div>
     <table>
       <thead>
         <tr>
@@ -74,12 +76,14 @@
           <td>Apr 2019 - Jan 2020</td>
       </tr>
         </tbody>
+      </div>
   </div>
   <div>
   <h3>Side Projects<h3>
   <p>Olivia spent her time at Grand Valley State University learning in the classroom and outside as well.  She has participated in a coding competition, built this website, and a visited the Grace Hopper Convention in 2019.</p>
     
     <div>
+<br><br>
       <h3>Beyond the workplace</h3>
       <p>Olivia also creates digital art as well as acryllic and crafts</p>
         <img src = "./holly.png" width = 100 height =100/>
