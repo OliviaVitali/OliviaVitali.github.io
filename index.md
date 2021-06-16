@@ -70,7 +70,7 @@
             <td>2019</td>
           </tr>
           <tr>
-            <tc>Grand Valley State University</td>
+            <td>Grand Valley State University</td>
             <td>Audio Visual Technician</td>
             <td>Independently set up conference rooms, monitor supplies, and take inventory for the Audio Visual department at Grand Valley State University. Some troubleshooting and technical support for staff with technical problems.</td>
           <td>Apr 2019 - Jan 2020</td>
