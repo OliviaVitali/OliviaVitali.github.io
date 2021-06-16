@@ -8,10 +8,10 @@
         <img src = "./holly.png" width = 100 height =100/>
 <p> A commissioned piece for a friend </p>
 
-        <img src = "./databasePanic.png" width = 100 height =100/>
+        <img src = "./databasePanic.png"/>
 <p> Abstract art <p>
 
-        <img src = "./landscape4.png" width = 100 height =100/>
+        <img src = "./landscape4.png"/>
 <p> A landscape </p>
 </body>
 </html>
