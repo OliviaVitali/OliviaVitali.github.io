@@ -2,4 +2,6 @@
 
 Go to OliviaVitali.github.io in browser
 
-A breif professional website for Olivia Vitali.
+A professional website for Olivia Vitali.
+
+Information includes work history, list of coding languages known, and a paragraph of interest.
