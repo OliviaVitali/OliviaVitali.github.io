@@ -22,13 +22,12 @@
   <h3> Some proficiency in</h3>
   <ul>
     <li>HTML</li>
+    <li>CSS</li>
+    <li>SQL</li>
     <li>Python</li>
-  </ul>
-  <h3>Light Experience</h3>
-  <ul>
     <li>R</li>
     <li>C++</li>
-    <li>Javascript</li>
+    <li>JavaScript</li>
     </ul>
   </div>
 
@@ -86,7 +85,7 @@
 <br><br>
       <div>
       <h3>Beyond the workplace</h3>
-      <p>Olivia also creates digital art as well as acryllic and crafts</p>
+      <p>Olivia also creates digital art as well as acryllic paintings and crafts</p>
         <img src = "./holly.png" width = 100 height =100/>
       </div>
 
