@@ -1,6 +1,7 @@
 <html>
   <head>
    Olivia Vitali
+   Junior Software Developer
   </head>
 <body>
 <div>
@@ -8,7 +9,6 @@
 <a href="https://www.linkedin.com/in/olivia-vitali/" target="_blank">LinkedIn Profile</a><br>
 <a href="https://github.com/OliviaVitali">Github Account</a><br>
   </div>
-<p> Are you looking to hire a <strong>junior software developer</strong>?</p>
 <p>olivia.vitali2012@gmail.com</p>
 
 
